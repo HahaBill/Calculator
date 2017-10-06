@@ -1,0 +1,46 @@
+using System;
+using System.Collection Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+class program
+
+{
+    static void Main(string[] args)
+    
+    {
+      
+    Console.WriteLine("Nejlepsi Kalkulacka na svete!");
+    Console.Writeline("Napiste prvni cislo:");
+    int a = int.Parse(Console.Readline());
+    Console.Writeline("Napiste druhe cislo:");
+    int b = int.Parse(Console.Readline());
+    
+    int soucet = a + b
+    int rozdil = a - b
+    int nasobeni = a * b 
+    {
+      
+    int deleni = a / b
+    
+    if (b == 0 )
+    
+    Console.Writeline("Nelze")
+    
+    }
+    
+    Console.Writeline( "Soucet : " + soucet );
+    Console.Writeline( "Rozdil : " + rozdil);
+    Console.Writeline( "Nasobeni : " + nasobeni);
+    Console.Writeline( "Deleni : " + deleni);
+    Console.Readkey();
+    
+    
+    
+    
+    }
+    
+
+}
